@@ -18,8 +18,10 @@
     max-height: 400px; /* Ajusta este valor según tus necesidades */
 }
 
-/* Tamaño de las imágenes del carousel */
+/* Ajustar tamaño de las imágenes del carousel */
 .carousel-item img {
-    max-height: 400px; /* Ajusta este valor según tus necesidades */
+    max-height: 100%;
+    width: auto;
+    margin: 0 auto; /* Para centrar las imágenes horizontalmente */
 }
 
