@@ -7,8 +7,3 @@
     background-color: gold;
 }
 
-/* Estilo para todas las imágenes del álbum */
-.img-fluid {
-    height: 200px; /* Tamaño deseado */
-    object-fit: cover; /* Para mantener la proporción y cubrir todo el espacio */
-}
