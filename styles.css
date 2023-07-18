@@ -16,6 +16,7 @@
 /* Tamaño del carousel */
 .carousel-inner img {
     max-height: 100px; /* Ajusta este valor según tus necesidades */
+    max-width: 100px; /* Ajusta este valor según tus necesidades */
 }
 
 /* Ajustar tamaño de las imágenes del carousel */
