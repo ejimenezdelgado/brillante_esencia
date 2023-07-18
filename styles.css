@@ -13,3 +13,13 @@
     object-fit: cover; /* Para mantener la proporción y cubrir todo el espacio */
 }
 
+/* Tamaño del carousel */
+.carousel-inner img {
+    max-height: 400px; /* Ajusta este valor según tus necesidades */
+}
+
+/* Tamaño de las imágenes del carousel */
+.carousel-item img {
+    max-height: 400px; /* Ajusta este valor según tus necesidades */
+}
+
